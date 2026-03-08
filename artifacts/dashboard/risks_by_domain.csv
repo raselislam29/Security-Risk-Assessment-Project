@@ -1,0 +1,5 @@
+Domain,Count,Average Risk Score,Total Risk Score
+Infrastructure,3,17.0,51
+Applications,3,13.0,39
+Data,3,13.7,41
+Cross-Functional,1,12.0,12
